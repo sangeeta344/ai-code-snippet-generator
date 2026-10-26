@@ -1,0 +1,11 @@
+﻿Test ID,Input Language,Requirement Entered,Expected English Meaning,Expected Technical Meaning,Status
+ML-01,Kannada,"ಪಟ್ಟಿಯಲ್ಲಿರುವ ನಕಲಿ ಅಂಶಗಳನ್ನು ತೆಗೆದು, ಮೂಲ ಕ್ರಮವನ್ನು ಉಳಿಸುವ Python function ರಚಿಸಿ.",Create a Python function to remove duplicate values from a list while preserving original order.,Duplicate-removal function; preserve first occurrence order.,Pending
+ML-02,Hindi,एक Python फ़ंक्शन बनाइए जो जाँच करे कि कोई संख्या अभाज्य है या नहीं।,Create a Python function that checks whether a number is prime.,Prime-number checking function; handle 0 and 1 correctly.,Pending
+ML-03,Urdu,ایک Python فنکشن بنائیں جو ایک سٹرنگ کو الٹ دے۔,Create a Python function that reverses a string.,String reversal function.,Pending
+ML-04,English,Create a Python function to calculate the average of a list of numbers.,Create a Python function to calculate the average of a list of numbers.,Average calculation; define behavior for empty list.,Pending
+ML-05,Mixed Kannada/English,ಒಂದು Python function ಮಾಡಿ list ನಿಂದ duplicates remove ಮಾಡಿ original order preserve ಮಾಡಬೇಕು.,Create a Python function to remove duplicates from a list while preserving original order.,Mixed-language meaning must be preserved.,Pending
+ML-06,Kannada,ಎರಡು strings anagram ಆಗಿದೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸುವ function ರಚಿಸಿ.,Create a function to check whether two strings are anagrams.,Anagram checking; clarify case/space assumptions.,Pending
+ML-07,Hindi,एक सूची में सबसे बड़ी संख्या खोजने वाला Python प्रोग्राम बनाइए।,Create a Python function/program to find the largest number in a list.,Largest-value logic; define empty-list behavior.,Pending
+ML-08,Urdu,ایک فہرست سے منفرد اقدار واپس کرنے والا فنکشن بنائیں۔,Create a function that returns unique values from a list.,Unique values; preserve order if required by normalized requirement.,Pending
+ML-09,Kannada,ಖಾಲಿ input ಕೊಟ್ಟಾಗ ಸೂಕ್ತ error message ತೋರಿಸಿ.,Show an appropriate error message when the input requirement is empty.,Empty-input validation.,Pending
+ML-10,Mixed language,"Prime number check ಮಾಡಿ, explanation Kannadaದಲ್ಲಿ ಕೊಡಿ.",Generate a prime-number checker and provide the explanation in Kannada.,Code intent and requested explanation language both preserved.,Pending
