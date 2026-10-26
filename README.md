@@ -185,3 +185,11 @@ The project includes 35 comprehensive automated tests covering:
 - Multilingual requirement dataset integrity and flows (`test_translation.py`, `test_multilingual_flow.py`)
 
 All 35 tests pass with 0 failures and 0 errors.
+
+## 🚀 Live Demo
+
+Try CodeForge AI here:
+
+**[Open CodeForge AI Live Demo](https://ai-code-snippet-generator-jvjpmk6md4ytkvm7vxkxj8.streamlit.app/)**
+
+
