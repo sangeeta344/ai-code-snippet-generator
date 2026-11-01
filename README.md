@@ -186,6 +186,13 @@ The project includes 35 comprehensive automated tests covering:
 
 All 35 tests pass with 0 failures and 0 errors.
 
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+
 ## 🚀 Live Demo
 
 Try CodeForge AI here:
